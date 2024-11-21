@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tharwat</h1>
 <h3 align="center">Mobile app Developer </h3>
 
+- 🌱 I’m currently learning **FLUTTER Development**
+
+- 💬 Ask me about **anything**
+
+- 📫 How to reach me **randaelhosini972@gmail.com**
+
+- ⚡ Fun fact **always learning**
+
 
 
 <h3 align="left">Connect with me:</h3>
