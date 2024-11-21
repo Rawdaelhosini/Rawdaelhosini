@@ -1,6 +1,5 @@
-# Hi there 👋
-
-**I'm [Rawda ]**
+<h1 align="center">Hi 👋, I'm Tharwat</h1>
+<h3 align="center">Mobile app Developer with a knack for teaching other programming</h3>
 
 
 
