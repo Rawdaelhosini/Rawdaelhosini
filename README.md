@@ -2,16 +2,10 @@
 
 **I'm [Rawda ]**
 
-[Your short bio, e.g., "A passionate software engineer with a focus on [programming languages/technologies]. I love building innovative solutions and contributing to open-source projects."]
-
-**What I'm working on:**
-* [Project 1: Brief description]
-* [Project 2: Brief description]
-* ...
 
 **How to reach me:**
-* **GitHub:** [Your GitHub username]
-* **LinkedIn:** [Your LinkedIn profile]
-* **Email:** [Your email address]
+* **GitHub:** https://github.com/Rawdaelhosini
+* **LinkedIn:** https://www.linkedin.com/in/rawda-elhosini-29621623a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app%0c
+* **Email:** randaelhosini972@gmail.com
 
 **Let's connect!**
