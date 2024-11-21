@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Rawdaelhosini/Rawdaelhosini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm [Rawda ]**
 
-Here are some ideas to get you started:
+[Your short bio, e.g., "A passionate software engineer with a focus on [programming languages/technologies]. I love building innovative solutions and contributing to open-source projects."]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm working on:**
+* [Project 1: Brief description]
+* [Project 2: Brief description]
+* ...
+
+**How to reach me:**
+* **GitHub:** [Your GitHub username]
+* **LinkedIn:** [Your LinkedIn profile]
+* **Email:** [Your email address]
+
+**Let's connect!**
