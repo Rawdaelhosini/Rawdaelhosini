@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharwat</h1>
-<h3 align="center">Mobile app Developer with a knack for teaching other programming</h3>
+<h3 align="center">Mobile app Developer </h3>
 
 
 
@@ -12,5 +12,3 @@
 
 <hr></hr>
 
-
-**Let's connect!**
