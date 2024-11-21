@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharwat</h1>
+<h1 align="center">Hi 👋, I'm Rawda</h1>
 <h3 align="center">Mobile app Developer </h3>
 
 - 🌱 I’m currently learning **FLUTTER Development**
